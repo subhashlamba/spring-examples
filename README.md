@@ -26,3 +26,4 @@
 * [Spring boot Gradle Example](https://javadeveloperzone.com/spring-boot/spring-boot-gradle-example/)
 * [Spring security 5 in-memory Basic Authentication Example](https://javadeveloperzone.com/spring-security/spring-security-5-in-memory-basic-authentication-example/)
 * [Spring MVC cron scheduler](https://javadeveloperzone.com/spring-mvc/spring-mvc-cron-scheduler/)
+* [Spring MVC cron scheduler](https://javadeveloperzone.com/spring-mvc/spring-mvc-cron-scheduler/)
