@@ -22,5 +22,5 @@
 * [Spring boot Rest XML example](https://javadeveloperzone.com/spring-boot/spring-boot-rest-xml-example/)
 * [spring boot yml properties example](https://javadeveloperzone.com/spring-boot/spring-boot-yml-properties-example/)
 * [Spring Security Multiple Users Sessions In Single Browser](https://javadeveloperzone.com/spring-boot/spring-security-multiple-users-sessions-single-browser/)
-
-
+* [Spring Boot HATEOAS REST Service Example](https://javadeveloperzone.com/spring-boot/spring-boot-hateoas-rest-service-example/)
+* [Spring boot Gradle Example](https://javadeveloperzone.com/spring-boot/spring-boot-gradle-example/)
