@@ -1,5 +1,13 @@
 # Spring Examples
 
+## Instruction for clone and run application
+
+```shell
+git clone https://github.com/subhashlamba/spring-examples.git
+cd spring-examples/[example-name]
+mvn spring-boot:run                 // to run spring boot application 
+```
+
 ## Spring boot microservices
 * [Spring boot cloud eureka server example](https://javadeveloperzone.com/spring-boot/spring-boot-cloud-eureka-server-example/)
 * [Spring boot cloud eureka server example](https://javadeveloperzone.com/spring-boot/spring-boot-cloud-eureka-server-example/)
