@@ -1,0 +1,15 @@
+<table>
+    <tr>
+      <th>Name</th>
+      <th>Role</th>
+      <th>Delete</th>
+      <th>Edit</th>
+    </tr>
+    <tr *ngFor="let employee of employees">
+      <td>{{employee.employeeName}}</td>
+      <td>{{employee.employeeRole}}</td>
+      <td><a (click)="onDelete(employee.employeeId)" href="javascript:void(0)">Delete</a></td>
+      <td><a (click)="onEdit(employee)" href="javascript:void(0)">Edit</a></td>
+        
+      </tr>
+</table>
