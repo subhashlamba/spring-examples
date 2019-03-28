@@ -40,7 +40,9 @@ mvn spring-boot:run                 // to run spring boot application
 * [Spring boot common dbcp2 connection pool](https://javadeveloperzone.com/spring-boot/spring-boot-common-dbcp2-connection-pool/)
 * [Spring JPA dynamic query example](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
 * [Spring data JPA where clause](https://javadeveloperzone.com/spring-boot/spring-data-jpa-where-clause/)
-
+* [Spring JPA Like Query Example](https://javadeveloperzone.com/spring/spring-jpa-like-query-example/)
+* [Spring JPA Projection example](https://javadeveloperzone.com/spring/spring-jpa-projection-example/)
+* [Spring Boot Elastic Search Example](https://javadeveloperzone.com/spring-boot/spring-boot-elastic-search-example/)
 ### Spring with multitenancy application Example
 * [Spring boot JPA multi tenancy example](https://javadeveloperzone.com/spring-boot/spring-boot-jpa-multi-tenancy-example/)
 * [Spring MVC hibernate multi tenancy example](https://javadeveloperzone.com/hibernate/spring-hibernate-xml-multi-tenancy-example/)
@@ -49,6 +51,7 @@ mvn spring-boot:run                 // to run spring boot application
 * [spring boot flyway example](https://javadeveloperzone.com/spring-boot/spring-boot-flyway-example/)
 * [Spring boot Flyway java based migration example](https://javadeveloperzone.com/spring-boot/spring-boot-flyway-java-based-migration-example/)
 * [Spring boot liquibase example](https://javadeveloperzone.com/spring-boot/spring-boot-liquibase-example/)
+* [Flyway Repeatable Migration Example](https://javadeveloperzone.com/java-basic/flyway-repeatable-migration-example/)
 
 ## Spring Security
 * [Spring security OAuth 2.0 authentication server example](https://javadeveloperzone.com/spring-boot/spring-security-oauth-2-0-authentication-server/)
