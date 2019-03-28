@@ -20,13 +20,26 @@ mvn spring-boot:run                 // to run spring boot application
 * [spring boot yml properties example](https://javadeveloperzone.com/spring-boot/spring-boot-yml-properties-example/)
 * [Spring boot gradle example](https://javadeveloperzone.com/spring-boot/spring-boot-gradle-example/)
 
+## Spring boot with Gson + Jackson
+* [Spring boot Gson and Jackson tutorial](https://javadeveloperzone.com/spring-boot/spring-boot-gson-and-jackson-tutorial/)
+* [Spring Gson custom date or long format](https://javadeveloperzone.com/spring-boot/spring-gson-custom-date-or-long-format/)
+* [Spring Gson serialize null fields](https://javadeveloperzone.com/spring-boot/spring-gson-serialize-null-fields/)
+* [Change Gson field naming strategy in Spring](https://javadeveloperzone.com/spring-boot/change-gson-field-naming-strategy-in-spring/)
+* [Spring boot configure Gson](https://javadeveloperzone.com/spring-boot/spring-boot-configure-gson/)
+* [Spring Jackson exclude null fields](https://javadeveloperzone.com/spring/spring-jackson-exclude-null-fields/)
+* [Spring Jackson property naming strategy](https://javadeveloperzone.com/spring/spring-jackson-property-naming-strategy/)
+* [Spring Jackson custom date format](https://javadeveloperzone.com/spring/spring-jackson-custom-date-format/)
+* [Spring boot custom JSON Serialize – Deserialize Example](https://javadeveloperzone.com/spring-boot/spring-boot-custom-json-serialize-deserialize-example/)
+
 ## Spring + Database (SQL + NoSQL)
+* [Spring data JPA tutorial](https://javadeveloperzone.com/spring-boot/spring-data-jpa-tutorial/)
 * [Spring boot jpa mysql example](https://javadeveloperzone.com/spring-boot/spring-boot-jpa-mysql-example/)
 * [Spring boot Rest Service with MongoDB example](https://javadeveloperzone.com/spring-boot/spring-boot-rest-service-with-mongodb-example/)
 * [Spring boot JDBC HikariCP Example](https://javadeveloperzone.com/spring-boot/spring-boot-jdbc-hikaricp-example/)
 * [Spring boot database cache example](https://javadeveloperzone.com/spring-boot/spring-boot-database-cache-example/)
 * [Spring boot common dbcp2 connection pool](https://javadeveloperzone.com/spring-boot/spring-boot-common-dbcp2-connection-pool/)
 * [Spring JPA dynamic query example](https://javadeveloperzone.com/spring/spring-jpa-dynamic-query-example/)
+* [Spring data JPA where clause](https://javadeveloperzone.com/spring-boot/spring-data-jpa-where-clause/)
 
 ### Spring with multitenancy application Example
 * [Spring boot JPA multi tenancy example](https://javadeveloperzone.com/spring-boot/spring-boot-jpa-multi-tenancy-example/)
