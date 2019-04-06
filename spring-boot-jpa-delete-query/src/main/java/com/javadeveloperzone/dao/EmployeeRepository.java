@@ -20,7 +20,12 @@ public interface EmployeeRepository extends CrudRepository<Employee,Long>, JpaSp
     @Override
     void delete(Long empId);
 
-    int deleteEmployeeByEmployeeName(String name);
+    int deleteEmployeeByEmployeeName(String name);      // Query Derivation Mechanism
+
+    int deleteEmployeeByEmployeeNameEndingWith(String nameEndsWith); // Query Derivation Mechanism, for name ends with
+
+    int deleteByEmployeeIdGreaterThan(int id);      // delete employee which are greater then defined id
+
 
     @Override
     void delete(Iterable<? extends Employee> iterable);
@@ -33,7 +38,7 @@ public interface EmployeeRepository extends CrudRepository<Employee,Long>, JpaSp
     int deleteByName(@Param("name") String name);
 
     @Modifying
-    @Query(value = "DELETE FROM Employee WHERE employeeName = :name",nativeQuery = true)
+    @Query(value = "DELETE FROM Employee WHERE employeeName = :name",nativeQuery = true)        // with native query
     int deleteByNameNative(@Param("name") String name);
 
 
