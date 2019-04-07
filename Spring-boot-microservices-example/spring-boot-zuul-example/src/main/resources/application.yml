@@ -1,0 +1,23 @@
+zuul:
+  routes:
+    account-service:
+      path: /account/**
+      #serviceId: account-service
+      stripPrefix: false
+
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone : http://${eureka.instance.hostname}:8761/eureka/
+
+  server:
+    eviction-interval-timer-in-ms: 1000
+
+#account-service:
+#  ribbon:
+#    listOfServers: http://localhost:8383, http://localhost:8989
+
+# /api-1.0/** redirect to /api-2.0/** means that /api-1.0/demo to /api-2.0/demo
