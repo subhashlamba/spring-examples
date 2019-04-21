@@ -1,1 +1,0 @@
-java -jar target/spring-boot-example-1.0-SNAPSHOT.jar --server.port=8989
