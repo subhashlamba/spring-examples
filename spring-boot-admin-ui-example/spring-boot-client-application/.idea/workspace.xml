@@ -2,87 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79b679de-a34a-422a-a307-439dd86548e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_cloud_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_server_2_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_handler_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_8_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_webflux_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/cloud.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/cloud2.cmd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/src/main/java/com/javadeveloperzone/EurekaClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-account-service/src/main/java/com/javadeveloperzone/EurekaClientConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-cloud-eureka-server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-zuul-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring-boot-microservices-example/spring-boot-zuul-example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring boot example + angular/spring-boot-jpa-mongodb-rest-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring boot example + angular/spring-boot-jpa-mongodb-rest-example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-Gson-custom-date-format/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-Gson-custom-date-format/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-Gson-exclude-null-fields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-Gson-exclude-null-fields/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-admin-ui-application/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-boot-admin-ui-application/src/main/java/com/javadeveloperzone/SpringBootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-admin-ui-application/src/main/java/com/javadeveloperzone/SpringBootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-boot-cross-origin-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-cross-origin-example/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-delete-query/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-delete-query/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-mongodb-rest-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-mongodb-rest-example/.idea/workspace.xml" afterDir="false" />
@@ -266,40 +196,7 @@
           <expand>
             <path>
               <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javadeveloperzone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootexample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-demo-application" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-client-application" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -601,16 +498,15 @@
       <workItem from="1525444366485" duration="336000" />
       <workItem from="1555816810065" duration="1440000" />
       <workItem from="1555818360108" duration="228000" />
-      <workItem from="1555818704970" duration="11000" />
+      <workItem from="1555818704970" duration="930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12319000" />
+    <option name="totallyTimeSpent" value="13238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="824" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
       <window_info id="Capture Tool" order="1" />
@@ -619,7 +515,7 @@
       <window_info id="Image Layers" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Nl-Palette" order="6" />
-      <window_info id="Project" order="7" visible="true" weight="0.2811653" />
+      <window_info active="true" id="Project" order="7" visible="true" weight="0.2811653" />
       <window_info id="Structure" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="1" />
