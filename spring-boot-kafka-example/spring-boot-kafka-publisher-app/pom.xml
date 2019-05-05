@@ -37,5 +37,6 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>spring-boot-publisher-app</finalName>
     </build>
 </project>
