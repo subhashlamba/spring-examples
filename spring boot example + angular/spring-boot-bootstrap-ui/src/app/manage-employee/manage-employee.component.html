@@ -1,0 +1,18 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm">Name</div>
+    <div class="col-sm">Role</div>
+    <div class="col-sm">Delete</div>
+    <div class="col-sm">Edit</div>
+  </div>
+  <div class="row" *ngFor="let employee of employees">
+    <div class="col-sm">{{employee.employeeName}} </div>
+    <div class="col-sm">{{employee.employeeRole}} </div>
+    <div class="col-sm">
+      <a (click)="onDelete(employee.employeeId)" href="javascript:void(0)">Delete</a>
+    </div>
+    <div class="col-sm">
+      <a (click)="onEdit(employee)" href="javascript:void(0)">Edit</a>
+    </div>
+  </div>
+</div>
