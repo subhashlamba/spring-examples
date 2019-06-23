@@ -9,20 +9,20 @@ import { Employee } from '../model/employee';
   styleUrls: ['./edit-employee.component.scss']
 })
 export class EditEmployeeComponent implements OnInit {
-  employee:Employee
-  constructor(private route: ActivatedRoute, 
-    private employeeService:EmployeeService,
-    private router:Router) { 
-    route.queryParams.subscribe(params=>{
-      let employeeId  = params["employeeId"];
-      this.employeeService.findById(employeeId).subscribe(employee=>{
+  employee: Employee
+  constructor(private route: ActivatedRoute,
+    private employeeService: EmployeeService,
+    private router: Router) {
+    route.queryParams.subscribe(params => {
+      let employeeId = params["employeeId"];
+      this.employeeService.findById(employeeId).subscribe(employee => {
         this.employee = employee;
       })
     })
 
   }
-  update(){
-    this.employeeService.update(this.employee).subscribe(data=>{
+  update() {
+    this.employeeService.update(this.employee).subscribe(data => {
       alert('saved success');
       this.router.navigateByUrl('manage-employee');
     })

@@ -7,22 +7,22 @@ import { Employee } from '../model/employee';
 })
 export class EmployeeService {
 
-  constructor(private http: HttpClient) { 
-    
+  constructor(private http: HttpClient) {
+
   }
-  public save(employee:Employee):Observable<any>{
-    return this.http.post('http://localhost:8080/save',employee);
+  public save(employee: Employee): Observable<any> {
+    return this.http.post('http://localhost:8080/save', employee);
   }
-  public update(employee:Employee):Observable<any>{
-    return this.http.post('http://localhost:8080/update',employee);
+  public update(employee: Employee): Observable<any> {
+    return this.http.post('http://localhost:8080/update', employee);
   }
-  public getEmployeeList():Observable<any>{
+  public getEmployeeList(): Observable<any> {
     return this.http.get('http://localhost:8080/list');
   }
-  public deleteEmployee(employeeId:number):Observable<any>{
+  public deleteEmployee(employeeId: number): Observable<any> {
     return this.http.delete(`http://localhost:8080/delete?id=${employeeId}`)
   }
-  public findById(employeeId:number):Observable<any>{
+  public findById(employeeId: number): Observable<any> {
     return this.http.get(`http://localhost:8080/findById?id=${employeeId}`)
   }
 }
