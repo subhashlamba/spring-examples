@@ -1,0 +1,8 @@
+applications:
+- name: SpringBootMysqlApp
+  memory: 1GB
+  path: target/SpringBootMysqlApp.jar 
+  buildpacks:
+  - java_buildpack
+  services:
+  - MySqlDB
